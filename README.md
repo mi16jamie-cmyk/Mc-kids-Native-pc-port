@@ -1,3 +1,43 @@
+### Fixes in version 1.2
+
+**Opening and title**
+- **Plane tail:** glides in smoothly from the far right edge at a steady speed. It no longer jerks at the picture edges or appears twice.
+- **Copyright screen:** the stray face and hand in the middle are gone.
+- **Player select:**
+  - No ghost outline is left behind when the kid walks off.
+  - The ground no longer drops by a pixel next to him.
+  - The 1UP sign no longer smears in stripes across the side.
+
+**Story scenes**
+- **Night camp:** the frog no longer stretches as it jumps past the tree, and the lit house windows are back.
+- **Storybook:** no green smear on the hand.
+
+**Levels**
+- **Jumping out of the top of a level:** the kid goes out of sight instead of the view jumping to an empty area.
+- **Screen changes:** no distortion between screens or just before a level starts.
+
+**Level complete (high five)**
+- No vertical stripes when the boys reach the edge.
+- They walk off across the wide screen instead of being cut off.
+- No extra copy of a boy on the left.
+- The boy in the cap no longer has yellow skin there.
+
+**Clubhouse rooms**
+- **Ronald's house:**
+  - The little arches in the sky are scattered at random instead of in a straight row; the night room's stars and moons are scattered too.
+  - Ronald walks in from the screen edge instead of popping up.
+- **Rocket ship room:** the clouds have round bumps instead of straight lines.
+
+**Ending and credits**
+- **Ronald thanks you:** the sun's beams carry on at their own angles, the fence continues, and the clouds are whole.
+- **Get Ready, Game Over, Bonus Game and credits screens:** the background colour carries on across the full width, with no mirrored text.
+- **Credits:** the red X boxes are now twinkling stars.
+
+**Menu**
+- The pause menu fits on screen with all the new options.
+
+
+
 ### Running the game
 - Runs as a single Windows program, `MC Kids.exe`, with its own "MC" icon. It needs no extra files apart from your ROM.
 - Settings are saved in `mckids.cfg` and save states in the `saves` folder.
